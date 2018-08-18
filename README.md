@@ -12,7 +12,7 @@ git config --global user.email sam@example.com
 
 
 ### Clone this repository
-git clone username@host:/path/to/repository
+git clone https://github.com/anirudhambati/Academic-Material.git
 
 
 ### Update your repository
